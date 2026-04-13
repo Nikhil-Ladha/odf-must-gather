@@ -10,6 +10,7 @@ approvers:
   - yati1998
   - iamniting
   - black-dragon74
+  - Madhu-1
 # review == this code is good /lgtm
 reviewers:
   - jarrpa
@@ -22,4 +23,5 @@ reviewers:
   - yati1998
   - iamniting
   - black-dragon74
-  
+  - Madhu-1
+
